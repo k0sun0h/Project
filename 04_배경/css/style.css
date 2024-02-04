@@ -37,15 +37,14 @@
     height: 200px;
     background-color: #aff;
     background-image: url(../img/snoopy.png);
-    background-size: 20px;
-    background-size: 20px auto;
+    /*background-size: 20px;*/
+    /*background-size: 20px auto;*/
     background-size: auto 30px;
-    background-repeat: no-repeat;
-    background-repeat:repeat-x;
+    /*background-repeat: no-repeat;*/
+    /*background-repeat:repeat-x;*/
     background-repeat:repeat-y;
     background-position: 50% 50%;
 }
-
 
 .bg_attach{
     width: 100%;
@@ -54,5 +53,4 @@
     background-image: url(../img/wallpaper.png);
     background-size: cover;
     background-attachment: fixed;
-
 }
