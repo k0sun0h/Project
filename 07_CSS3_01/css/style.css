@@ -118,7 +118,6 @@ header, section, nav, article, aside, footer{display: block;}
         -5px -5px 5px rgba(255,255,255,0.5);
 }
 
-
 .gr_linear{
     width: 400px;
     height: 200px;
@@ -351,12 +350,3 @@ header, section, nav, article, aside, footer{display: block;}
     transform: translate(0, 190px);
     color: yellow;
 }
-
-
-
-
-
-
-
-
-
