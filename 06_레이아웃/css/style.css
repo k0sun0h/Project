@@ -50,7 +50,6 @@ a{text-decoration: none; color: #333;}
 #adidas_header nav > ul > li{float: left; margin: 0 10px; line-height: 40px;}
 #adidas_header nav > ul > li > a{}
 
-
 /* display: block | inline | inline-block | none */
 
 #diplay{
@@ -123,7 +122,6 @@ a{text-decoration: none; color: #333;}
     background-image: url(../img/snoopy_04.png);
     background-color: #0f0;
 }
-
 
 #table-space{
     width: 400px;
@@ -380,6 +378,7 @@ a{text-decoration: none; color: #333;}
     height: 50px;
     top: -25px;
     left: -25px;
+
 }
 
 .po_fixed{
